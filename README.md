@@ -13,7 +13,7 @@ For example, there could more complex models, for example
 there could be a quadratic term.
 
 
-$y = $a  x^2 + m x + c $$
+$$y = a  x^2 + m x + c $$
 
 with fit parameters a,m and c.
 
@@ -28,3 +28,8 @@ data.
 ##  Background reading on symbolic regression
 
 * Wikpedia page on [symbolic regresssion](https://en.wikipedia.org/wiki/Symbolic_regression).
+
+
+## Software packages to do symbolic regression.
+
+* Python Pysr [Pysr](https://github.com/MilesCranmer/PySR).
