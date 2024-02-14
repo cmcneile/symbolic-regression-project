@@ -25,6 +25,10 @@ Symbolic regression is a method to determine the model from
 data. Essentially it is way of searching through the many different
 possible models.
 
+For example, this paper uses symbolic regression to extract the
+equations of physics from data with no assumptions.
+[AI Feynman](https://www.science.org/doi/10.1126/sciadv.aay2631)
+
 ## What the project involves
 
 ##  Background reading on symbolic regression
