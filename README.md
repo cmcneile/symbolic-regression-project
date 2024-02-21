@@ -22,19 +22,23 @@ or exponential functions. Sometimes physical insight allows
 some insight into the correct model.
 
 Symbolic regression is a method to determine the model from
-data. Essentially it is way of searching through the many different
-possible models.
+data. Essentially it is an efficient way of searching through the many
+different possible models.
 
 For example, this paper uses symbolic regression to extract the
-equations of physics from data with no assumptions.
+equations of physics from the data with no assumptions.
 [AI Feynman](https://www.science.org/doi/10.1126/sciadv.aay2631)
 
 ## What the project involves
+
+The Python  [Pysr](https://github.com/MilesCranmer/PySR) library will be
+used to investigate symbolic regression.
 
 *  The first part of the project will use data sets with known functions such as linear or quadratic. These will be generated using random numbers with the known function. The symbolic regression will check that the original functions are recovered. (Some starting examples)[https://realpython.com/linear-regression-in-python/]
 * The simulated data will then be modified to introduce correlations.
 * The algorithm will be tested on real data sets such as
 [The Auto MPG dataset](https://www.tensorflow.org/tutorials/keras/regression)
+* We will also investigate using symbolic regression for time series.
 
 ##  Background reading on symbolic regression
 
