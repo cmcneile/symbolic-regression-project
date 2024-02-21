@@ -31,10 +31,16 @@ equations of physics from data with no assumptions.
 
 ## What the project involves
 
+*  The first part of the project will use data sets with known functions such as linear or quadratic. These will be generated using random numbers with the known function. The symbolic regression will check that the original functions are recovered. (Some starting examples)[https://realpython.com/linear-regression-in-python/]
+* The simulated data will then be modified to introduce correlations.
+* The algorithm will be tested on real data sets such as
+[The Auto MPG dataset](https://www.tensorflow.org/tutorials/keras/regression)
+
 ##  Background reading on symbolic regression
 
-* Wikpedia page on [symbolic regresssion](https://en.wikipedia.org/wiki/Symbolic_regression).
 
+* Wikpedia page on [symbolic regression](https://en.wikipedia.org/wiki/Symbolic_regression).
+* [overview of symbolic regression](https://towardsdatascience.com/symbolic-regression-the-forgotten-machine-learning-method-ac50365a7d95)
 
 ## Software packages to do symbolic regression.
 
