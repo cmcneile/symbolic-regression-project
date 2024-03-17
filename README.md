@@ -34,7 +34,7 @@ equations of physics from the data with no assumptions.
 The Python  [Pysr](https://github.com/MilesCranmer/PySR) library will be
 used to investigate symbolic regression.
 
-*  The first part of the project will use data sets with known functions such as linear or quadratic. These will be generated using random numbers with the known function. The symbolic regression will check that the original functions are recovered. (Some starting examples)[https://realpython.com/linear-regression-in-python/]
+*  The first part of the project will use data sets with known functions such as linear or quadratic. These will be generated using random numbers with the known function. The symbolic regression will check that the original functions are recovered. (Some starting examples)[https://realpython.com/linear-regression-in-python/]  (First example of finding a function via symbolic regressionn)[https://github.com/cmcneile/symbolic-regression-project/blob/main/sym_regress_one.ipynb]
 * The simulated data will then be modified to introduce correlations.
 * The algorithm will be tested on real data sets such as
 [The Auto MPG dataset](https://www.tensorflow.org/tutorials/keras/regression)
