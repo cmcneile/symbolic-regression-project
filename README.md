@@ -29,12 +29,14 @@ For example, this paper uses symbolic regression to extract the
 equations of physics from the data with no assumptions.
 [AI Feynman](https://www.science.org/doi/10.1126/sciadv.aay2631)
 
+Symbolic regression is an example of the [Interpretability of AI](https://docs.aws.amazon.com/whitepapers/latest/model-explainability-aws-ai-ml/interpretability-versus-explainability.html).
+
 ## What the project involves
 
 The Python  [Pysr](https://github.com/MilesCranmer/PySR) library will be
 used to investigate symbolic regression.
 
-*  The first part of the project will use data sets with known functions such as linear or quadratic. These will be generated using random numbers with the known function. The symbolic regression will check that the original functions are recovered. (Some starting examples)[https://realpython.com/linear-regression-in-python/]  (First example of finding a function via symbolic regressionn)[https://github.com/cmcneile/symbolic-regression-project/blob/main/sym_regress_one.ipynb]
+*  The first part of the project will use data sets with known functions such as linear, logs or quadratic. These will be generated using random numbers with the known function. The symbolic regression will check that the original functions are recovered. (Some starting examples)[https://realpython.com/linear-regression-in-python/]  (First example of finding a function via symbolic regressionn)[https://github.com/cmcneile/symbolic-regression-project/blob/main/sym_regress_one.ipynb]
 * The simulated data will then be modified to introduce correlations.
 * The algorithm will be tested on real data sets such as
 [The Auto MPG dataset](https://www.tensorflow.org/tutorials/keras/regression)
@@ -45,6 +47,7 @@ used to investigate symbolic regression.
 
 * Wikpedia page on [symbolic regression](https://en.wikipedia.org/wiki/Symbolic_regression).
 * [overview of symbolic regression](https://towardsdatascience.com/symbolic-regression-the-forgotten-machine-learning-method-ac50365a7d95)
+* [Klaus Reygers Lecture on symbolic regression](https://www.physi.uni-heidelberg.de/~reygers/lectures/2021/smipp/stat_methods_ws2021_A_selected_topic_5_symbolic_regression.pdf)
 
 ## Software packages to do symbolic regression.
 
