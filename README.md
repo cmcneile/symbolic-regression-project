@@ -52,3 +52,4 @@ used to investigate symbolic regression.
 ## Software packages to do symbolic regression.
 
 * Python Pysr [Pysr](https://github.com/MilesCranmer/PySR).
+* [gplearn](https://gplearn.readthedocs.io/en/stable/)
