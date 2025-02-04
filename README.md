@@ -42,6 +42,11 @@ used to investigate symbolic regression.
 [The Auto MPG dataset](https://www.tensorflow.org/tutorials/keras/regression)
 * We will also investigate using symbolic regression for time series.
 
+## Symbolic regression and finance
+
+* [Exploring Financial Markets with Symbolic Regression Machine Learning in Python](https://www.linkedin.com/pulse/exploring-financial-markets-symbolic-regression-machine-lazaro/)
+* [Symbolic Modeling for financial asset pricing](https://www.sciencedirect.com/science/article/pii/S2405918825000029)
+
 ##  Background reading on symbolic regression
 
 
